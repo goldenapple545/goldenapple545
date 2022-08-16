@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordj1</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenapple545&label=Profile%20views&color=0eb44d&style=flat" alt="goldenapple545" /> </p>
-<p align="left"><img src="https://www.codewars.com/users/Jordj1/badges/micro?theme=light" /></p>
+<p align="left"><img src="https://www.codewars.com/users/Jordj1/badges/micro" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
